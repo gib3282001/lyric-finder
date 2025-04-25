@@ -1,0 +1,13 @@
+
+body, html {
+    margin: 0;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    background-image: url("./assets/backdrop.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
+
+  
